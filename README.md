@@ -1,11 +1,12 @@
 ### Hi there 👋,  I'm Rakibul Hasan
 ![I'm a Web Designer/FontEnd Designer.](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/271543547_991369291735166_2265349768582033964_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHDIDX0eUHtvCr8L6aLsO1vBstD5l3I4jEGy0PmXcjiMZ-9liYLdBGNgjbBQ-ZFV4WcNkdvqFe5E-yClfP86duz&_nc_ohc=AioYiYq9OTcAX87BZyl&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCPk7CNLY4Vqm8WI7GWX7WajsTqS2rgh543_l35UGsK5w&oe=63AFA404)
-#### I'm a Web Designer/FontEnd Designer.
+#### I'm a Web Designer/FrontEnd Designer.
 
 
 Hi! I am Rakibul Hasan, a web designer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design since 2021. I enjoy creating beautifully designed, intuitive and functional websites.
 
 Skills: HTML / CSS/BOOTSTRAP/JS
+
 
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning Javascript 
